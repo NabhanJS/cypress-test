@@ -82,3 +82,7 @@
 14. Det måste vara ifylld ('Du måste fylla i ett mobilnummer')
 15. Klicka på knappen "Skicka"
 16. Nu ska "KLART" text synas
+
+## Testfall 6:
+
+1. Navigera till https://dev.reky.se/ i webbläsaren

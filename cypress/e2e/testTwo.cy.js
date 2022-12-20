@@ -106,4 +106,6 @@ describe("testing the dev.reky.se hemsida", () => {
     cy.getByTestId("send-form-button").click();
     //   cy.getByTestId("klart-text").contains('KLART');
   });
+
+  // testfall 6
 });
